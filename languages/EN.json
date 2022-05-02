@@ -1,0 +1,8 @@
+{
+  "nobody": "nobody",
+  "whats_the_next_move": "whats your next move?",
+  "now_its_X_move": "now its X move",
+  "now_its_O_move": "now its O move",
+  "wrong_move": "Wrong move!",
+  "winner": "winner"
+}
